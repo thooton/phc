@@ -21,7 +21,7 @@ The course information and content is contained in the `course` directory. You s
 - **Unit 1: Kinematics**
     - Lesson 1.1 (Scalars and Vectors): Complete. All 5 questions answered correctly.
     - Lesson 1.2 (Displacement, Velocity, and Acceleration): Complete. All 5 questions answered correctly. Student also walked through the derivation of all three kinematic equations from scratch using the fundamental theorem of calculus.
-    - Lesson 1.3 (Representing Motion): In progress. Lesson material delivered. 4 of 5 end-of-lesson questions answered correctly (Q1, Q2, Q3, Q5). Q4 had an arithmetic error in part (b) — a(1) was computed as 8 instead of −6 — though the conceptual reasoning in part (c) was correct. Student explained why they were wrong in their own words.
+    - Lesson 1.3 (Representing Motion): Complete. Lesson material delivered. 4 of 5 end-of-lesson questions answered correctly (Q1, Q2, Q3, Q5). Q4 had an arithmetic error in part (b) — a(1) was computed as 8 instead of −6 — though the conceptual reasoning in part (c) was correct. Student explained why they were wrong in their own words.
     - Lesson 1.4 has not been started yet.
 
 ## Student Assessment Notes
